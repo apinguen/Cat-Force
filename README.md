@@ -1,2 +1,2 @@
-# cat-force
+# Cat Force
 *Title is placeholder for now
